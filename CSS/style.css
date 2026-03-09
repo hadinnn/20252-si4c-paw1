@@ -7,7 +7,7 @@ body {
 }
 
 .txt-center {text-align: center;}
-.bg-warning {background-color: yellow; border-radius: 20px 20px 20px 20px; border-style: dotted;}
+.bg-warning {background-color: rgb(0, 0, 0); border-radius: 20px 20px 20px 20px; border-style: dotted;}
 .txt-black {color: black;}
 .p-1 {padding: 10px}
 .m-1 {margin: 20px;}
